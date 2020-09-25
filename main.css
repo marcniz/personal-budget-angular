@@ -83,7 +83,10 @@ div.hero h2 {
     text-align: center;
 }
 
+/*<!-- This is an A11y Change --> Changed the font size 
+a little bigger */
 .container div.text-box {
+    font-size: 16px;
     display: inline-block;
     width: 100%;
     max-width: 340px;
